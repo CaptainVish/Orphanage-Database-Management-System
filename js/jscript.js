@@ -1,0 +1,1 @@
+$('.ui.radio.checkbox').checkbox();
